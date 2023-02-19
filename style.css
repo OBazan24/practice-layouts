@@ -1,0 +1,47 @@
+
+/* .Parent {
+    border: solid 5px green;
+    height: 200px;
+    margin-top: 10px;
+
+    }
+
+
+
+.hello{
+    border: solid red 5px;
+    background-color: lime;
+    position: relative;  } 
+    
+
+
+
+
+    .layout {
+        border:dashed 5px blue ;
+        position: relative; 
+
+    } */
+.p1{
+    border: 1px solid red;
+    width: 400px;
+    background-color: rgb(88, 56, 169);
+    color: white;
+    float: right;
+
+    
+}
+
+
+.p2{
+    border: 1px solid green;    
+    width: 400px;
+    color: rgb(197, 55, 225);
+    float: left;
+}
+.p3 {
+    
+    border: 2px rgb(5, 3, 3); width: 222px;
+    color: lightblue;
+    position: relative;
+}
